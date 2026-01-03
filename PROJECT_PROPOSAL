@@ -1,0 +1,175 @@
+# Decision Copilot Framework  
+## Proposta Final do Projeto (Atualizada para 2026)
+
+---
+
+## 1. Visão Geral
+
+O **Decision Copilot Framework** é um projeto híbrido que combina **framework estratégico + aplicação prática**, criado para demonstrar como **IAs Generativas podem acelerar processos de tomada de decisão baseados em dados**, mantendo **governança, rastreabilidade e responsabilidade humana**.
+
+O projeto é direcionado a **executivos, lideranças e tomadores de decisão**, e está alinhado ao desafio **Natty or Not** da DIO, evidenciando o uso intencional, crítico e não superficial da IA Generativa.
+
+---
+
+## 2. Insight Central  
+### IA Generativa como o Próximo Grande Platform Shift
+
+Assim como:
+- Cloud transformou infraestrutura,
+- Mobile transformou acesso,
+- Social transformou engajamento,
+
+a **IA Generativa transforma a camada de decisão**.
+
+Neste novo platform shift, a IA deixa de ser apenas uma ferramenta de automação e passa a atuar como uma **plataforma cognitiva**, capaz de:
+- Simular cenários estratégicos,
+- Explorar trade-offs,
+- Antecipar riscos,
+- Apoiar decisões complexas em menor tempo.
+
+O Decision Copilot Framework parte do princípio de que **o valor da IA está em como ela melhora decisões**, e não apenas em como gera outputs.
+
+---
+
+## 3. Problema que o Projeto Resolve
+
+Executivos e líderes enfrentam hoje um paradoxo:
+
+- Grande volume de dados disponíveis  
+- Pouco tempo para decidir  
+- Alta pressão por velocidade  
+- Necessidade crescente de governança  
+
+O projeto responde à pergunta central:
+
+> **Como tornar o processo de tomada de decisão baseada em dados mais rápido, estruturado e governado com o apoio de IA Generativa?**
+
+---
+
+## 4. Onde o Valor Está Sendo Criado Hoje
+
+O projeto demonstra que o valor real da IA Generativa se concentra em três elementos combinados:
+
+1. **Contexto**  
+   Dados, premissas estratégicas e restrições do negócio.
+
+2. **Workflow Decisório**  
+   Como a decisão é estruturada, comparada e validada.
+
+3. **Governança**  
+   Clareza sobre limites da IA, responsabilidade humana e rastreabilidade.
+
+Ferramentas que apenas geram texto, imagens ou vídeos sem integração a esses três pontos são consideradas **uso superficial** de IA.
+
+---
+
+## 5. Natty vs Fake Natty em IA Generativa
+
+### Fake Natty
+- IA usada apenas para gerar conteúdo
+- Respostas genéricas e desconectadas do negócio
+- Falta de critérios, rastreabilidade e contexto
+- Alto risco de hype sem valor duradouro
+
+### Natty
+- IA usada para simular decisões reais
+- Outputs comparáveis entre cenários
+- Clareza de premissas e trade-offs
+- Governança explícita e decisão final humana
+
+O Decision Copilot Framework foi desenhado para operar exclusivamente no campo **Natty**.
+
+---
+
+## 6. Padrões de Vencedores Emergentes Incorporados
+
+O projeto incorpora explicitamente padrões observados em soluções de IA vencedoras em 2026:
+
+- Foco em **workflow**, não apenas em output
+- **Verticalização** em decisões executivas
+- **Multimodalidade integrada** (texto, imagem, áudio e vídeo)
+- Uso de **contexto e dados** como diferencial competitivo
+- **Governança** como parte do produto, não como complemento
+
+---
+
+## 7. O Decision Copilot Framework
+
+O framework é composto por cinco etapas sequenciais:
+
+### 1. Frame the Decision  
+Definir claramente:
+- Qual decisão será tomada
+- Horizonte temporal
+- Risco aceitável
+
+### 2. Inject Context  
+Inserir:
+- Dados relevantes
+- Premissas estratégicas
+- Restrições organizacionais
+
+### 3. Simulate Scenarios  
+Utilizar IA para:
+- Simular cenários alternativos
+- Explorar consequências
+- Identificar trade-offs
+
+### 4. Compare & Stress-Test  
+Avaliar:
+- Consistência das respostas
+- Sensibilidade a mudanças de premissas
+- Pontos cegos e riscos ocultos
+
+### 5. Decide with Governance  
+Registrar:
+- Racional da decisão
+- Limites da recomendação da IA
+- Responsabilidade humana final
+
+A IA atua como **copiloto de decisão**, nunca como decisor autônomo.
+
+---
+
+## 8. Aplicação Prática do Framework
+
+O projeto inclui uma simulação prática de decisão executiva, na qual a IA é utilizada para:
+
+- Comparar estratégias alternativas
+- Avaliar impactos financeiros, operacionais e reputacionais
+- Gerar artefatos explicativos em múltiplos formatos
+
+Essa aplicação prática demonstra como o framework pode ser reutilizado em contextos reais de negócio.
+
+---
+
+## 9. Stack Tecnológico (Atualizado para 2026)
+
+O projeto utiliza um stack moderno, escolhido com base em critérios de valor real, governança e uso corporativo:
+
+- **ChatGPT (modelos reasoning-first)**: simulação e raciocínio estratégico  
+- **Miro AI ou Whimsical AI**: visualização de fluxos e decisões  
+- **Midjourney v7+ ou DALL·E multimodal**: imagens conceituais estratégicas  
+- **ElevenLabs**: briefings executivos em áudio  
+- **Synthesia ou HeyGen**: comunicação executiva em vídeo  
+- **Notion AI ou Coda AI** (opcional): orquestração e governança cognitiva  
+- **GitHub**: documentação, versionamento e compartilhamento
+
+---
+
+## 10. Estrutura do Repositório
+
+O projeto é organizado para facilitar a leitura de usuários iniciantes e não técnicos:
+
+```text
+decision-copilot-framework/
+│
+├── README.md
+├── PROJECT_PROPOSAL.md
+│
+├── 01_framework/
+├── 02_simulacao_texto/
+├── 03_simulacao_imagem/
+├── 04_simulacao_audio/
+├── 05_simulacao_video/
+└── 06_reflexao_final/
