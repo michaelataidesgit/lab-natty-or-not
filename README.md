@@ -42,9 +42,11 @@ O *Decision Copilot Framework* utiliza um conjunto de tecnologias modernas de IA
 O projeto foi desenvolvido em duas partes interdependentes:
 
 ### Parte 1: Construção do Framework
+
 Foi criado o **Decision Copilot Framework**, estruturando o uso da IA Generativa como simulador de decisões, com foco em contexto, comparação de cenários e governança.
 
 ### Parte 2: Aplicação Prática
+
 O framework foi aplicado em uma simulação de decisão executiva, demonstrando como a IA pode apoiar análises estratégicas reais por meio de artefatos multimodais.
 
 ---
@@ -67,6 +69,7 @@ Os fundamentos conceituais, critérios estratégicos e decisões de design estã
 Este repositório inclui um documento complementar com o aprofundamento estratégico do projeto.
 
 👉 Consulte o arquivo [PROJECT_PROPOSAL.md](./PROJECT_PROPOSAL.md) para conhecer:
+
 - O insight central do projeto
 - O Decision Copilot Framework em profundidade
 - A aplicação prática e os critérios Natty vs Fake Natty
@@ -82,6 +85,10 @@ Criar algo verdadeiramente “natty” com IA Generativa exigiu ir além da auto
 ## 📌 Conclusão
 
 O **Decision Copilot Framework** mostra como líderes podem vencer na era da IA Generativa sem cair no hype, utilizando a tecnologia como uma plataforma cognitiva para decisões mais rápidas, seguras e bem fundamentadas.
+
+---
+
+**Observação**: alguns artefatos multimodais (áudio e vídeo) são representados por roteiros e contextos, respeitando o escopo educacional do Lab.
 
 ---
 
@@ -116,3 +123,5 @@ decision-copilot-framework/
 │
 └── 06_reflexao_final/
     └── Análise crítica Natty vs Fake Natty e aprendizados do projeto
+
+Este projeto demonstra que a maturidade no uso de IA está menos na ferramenta e mais na qualidade das decisões que ela ajuda a construir.
