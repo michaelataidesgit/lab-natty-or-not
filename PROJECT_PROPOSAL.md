@@ -1,4 +1,5 @@
 # Decision Copilot Framework  
+
 ## Proposta Estratégica Completa (Atualizada para 2026)
 
 > Este documento complementa o [README.md](./README.md), que apresenta a visão geral do projeto e sua aderência ao Lab da DIO.
@@ -45,12 +46,14 @@ O projeto demonstra que o valor da IA Generativa emerge da combinação de:
 
 ## Natty vs Fake Natty
 
-**Fake Natty**
+### **Fake Natty**
+
 - IA usada apenas para gerar conteúdo
 - Falta de contexto e critérios
 - Baixa confiabilidade
 
-**Natty**
+### **Natty**
+
 - IA usada para simular decisões reais
 - Comparação estruturada de cenários
 - Responsabilidade humana clara
@@ -94,7 +97,7 @@ O projeto utiliza ferramentas modernas alinhadas a uso corporativo real, conform
 ## Referência Conceitual
 
 - Base10 VC. *If You’re Not First, You’re Last: How AI Becomes Mission Critical*  
-  https://base10.vc/post/generative-ai-mission-critical/
+  <https://base10.vc/post/generative-ai-mission-critical/>
 
 ---
 
