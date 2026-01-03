@@ -4,137 +4,81 @@
 
 Este projeto apresenta o **Decision Copilot Framework**, um framework prático e aplicável para apoiar **executivos, líderes e tomadores de decisão** no uso de IAs Generativas como **copilotos estratégicos**.
 
-O objetivo é demonstrar como a IA Generativa representa o próximo grande *Platform Shift*, atuando diretamente na **camada de decisão**, acelerando análises baseadas em dados, simulando cenários estratégicos e reforçando a governança do processo decisório.
+O foco do projeto é demonstrar como a IA Generativa representa o próximo grande *Platform Shift*, atuando diretamente na **camada de decisão**, acelerando análises baseadas em dados, simulando cenários estratégicos e reforçando a governança do processo decisório.
 
-O projeto conecta teoria, prática e reflexão crítica, alinhando-se ao desafio **Natty or Not** ao mostrar como usar IA de forma intencional, responsável e com valor real para o negócio.
+O projeto foi desenvolvido no contexto do Lab **Natty or Not** da DIO, com ênfase em uso consciente, crítico e aplicável de IA Generativa no mundo real.
 
 ---
 
 ## 🤖 Tecnologias Utilizadas (Stack 2026)
 
-O *Decision Copilot Framework* foi desenvolvido com um conjunto de tecnologias de IA Generativa modernas, escolhidas não pela popularidade, mas pela **capacidade de apoiar decisões estratégicas reais**, com **contexto, governança e multimodalidade integrada** (texto, imagem, áudio e vídeo).
+O *Decision Copilot Framework* utiliza um conjunto de tecnologias modernas de IA Generativa, escolhidas por sua capacidade de **simular decisões**, **integrar contexto** e **operar em workflows reais**, indo além da simples geração de conteúdo.
 
-Cada ferramenta cumpre um papel específico dentro do fluxo decisório, evitando o uso superficial de IA e reforçando uma abordagem verdadeiramente **Natty**.
+- **ChatGPT (modelos reasoning-first)**  
+  Núcleo cognitivo do projeto, utilizado para simular cenários estratégicos, comparar alternativas, realizar stress tests e estruturar o racional decisório.
 
-### 🔹 Simulação e Raciocínio de Decisão
-- **ChatGPT (modelos reasoning-first, 2026)**  
-  Utilizado como o núcleo cognitivo do framework para:
-  - Simular cenários estratégicos
-  - Comparar alternativas de decisão
-  - Realizar stress tests de premissas
-  - Estruturar e registrar o racional decisório  
-  A IA atua como *copiloto*, não como tomador de decisão.
+- **Miro AI ou Whimsical AI**  
+  Utilizados para criar fluxos de decisão, mapas conceituais e visualizações estratégicas acessíveis a públicos não técnicos.
 
-### 🔹 Diagramas e Visualização Estratégica
-- **Miro AI** ou **Whimsical AI**  
-  Utilizados para criar:
-  - Fluxos de decisão
-  - Mapas conceituais do framework
-  - Comparações visuais entre cenários  
-  Essas visualizações tornam decisões complexas mais acessíveis para públicos não técnicos.
+- **Midjourney v7+ ou DALL·E multimodal**  
+  Utilizados de forma intencional para representar conceitos estratégicos e apoiar storytelling executivo.
 
-### 🔹 Imagem Conceitual
-- **Midjourney v7+** ou **DALL·E multimodal**  
-  Utilizados de forma intencional para:
-  - Representar conceitos estratégicos abstratos
-  - Apoiar storytelling executivo  
-  As imagens não têm papel decorativo, mas explicativo.
+- **ElevenLabs**  
+  Utilizado para criar briefings executivos em áudio e resumos narrativos de decisões simuladas.
 
-### 🔹 Áudio Narrativo (Briefings Executivos)
-- **ElevenLabs (Enterprise / Conversational)**  
-  Utilizado para:
-  - Criar resumos em áudio das decisões simuladas
-  - Simular briefings executivos e comunicações internas  
-  O áudio amplia o acesso à informação e acelera o entendimento em contextos corporativos.
+- **Synthesia ou HeyGen**  
+  Utilizados para apresentar o framework e cenários decisórios em formato de vídeo executivo.
 
-### 🔹 Vídeo Sintético
-- **Synthesia** ou **HeyGen**  
-  Utilizados para:
-  - Apresentar o framework de forma executiva
-  - Comunicar cenários e decisões de maneira escalável  
-  O foco está em clareza, objetividade e comunicação corporativa.
+- **Notion AI ou Coda AI** (opcional)  
+  Utilizados como hubs de orquestração cognitiva, garantindo rastreabilidade e governança.
 
-### 🔹 Orquestração e Governança Cognitiva (Opcional, mas recomendado)
-- **Notion AI** ou **Coda AI**  
-  Utilizados como hubs cognitivos para:
-  - Centralizar artefatos do projeto
-  - Documentar hipóteses e decisões
-  - Garantir rastreabilidade e governança do processo decisório
-
-### 🔹 Repositório e Documentação
 - **GitHub**  
-  Utilizado para:
-  - Organizar a documentação do framework
-  - Versionar decisões, reflexões e artefatos
-  - Facilitar leitura e reutilização por usuários iniciantes e não técnicos
-
----
-
-### 📌 Critérios de Escolha das Tecnologias
-
-As tecnologias foram selecionadas por atenderem aos seguintes critérios estratégicos:
-
-- Suporte a **simulação de decisões**, não apenas geração de conteúdo
-- Capacidade de trabalhar com **contexto e iteração**
-- Integração **multimodal** no mesmo fluxo
-- Aderência a padrões reais de uso corporativo em 2026
-- Apoio à **governança e responsabilidade humana**
-
-Esse stack garante que o projeto vá além do hype e demonstre um uso maduro, estratégico e aplicável de IA Generativa.
-
+  Repositório central de documentação, versionamento e organização do projeto.
 
 ---
 
 ## 🧐 Processo de Criação
 
-O projeto foi desenvolvido em duas partes interdependentes.
+O projeto foi desenvolvido em duas partes interdependentes:
 
 ### Parte 1: Construção do Framework
+Foi criado o **Decision Copilot Framework**, estruturando o uso da IA Generativa como simulador de decisões, com foco em contexto, comparação de cenários e governança.
 
-Inicialmente, foi criado o **Decision Copilot Framework**, inspirado nos principais padrões de vencedores emergentes na era das IAs Generativas, como:
-
-- Foco em workflow e não apenas em outputs
-- Uso de contexto e dados como diferencial competitivo
-- Multimodalidade integrada (texto, imagem, áudio e vídeo)
-- Governança como parte central do processo
-
-O framework estrutura o uso da IA em cinco etapas claras, posicionando a tecnologia como um **simulador de cenários**, e não como um tomador de decisão automático.
-
-### Parte 2: Aplicação Prática e Simulação de Decisão
-
-Na segunda etapa, o framework foi aplicado a um **caso simulado de decisão executiva**, onde a IA foi utilizada para:
-
-- Simular cenários estratégicos alternativos
-- Comparar riscos, impactos e trade-offs
-- Apoiar a tomada de decisão com rastreabilidade e clareza
-
-Os resultados foram apresentados de forma multimodal, facilitando o entendimento mesmo para usuários não técnicos.
+### Parte 2: Aplicação Prática
+O framework foi aplicado em uma simulação de decisão executiva, demonstrando como a IA pode apoiar análises estratégicas reais por meio de artefatos multimodais.
 
 ---
 
 ## 🚀 Resultados
 
-Os principais resultados do projeto foram:
+Os principais resultados do projeto são:
 
-- Um **framework original e reutilizável**, aplicável em contextos reais de negócio
-- Demonstração prática de como a IA Generativa pode acelerar decisões baseadas em dados
-- Integração de texto, imagem, áudio e vídeo em um único fluxo de decisão
-- Clareza sobre a diferença entre uso estratégico de IA (Natty) e uso superficial ou hype (Fake Natty)
+- Criação de um **framework original e reutilizável**
+- Demonstração prática de IA Generativa aplicada à tomada de decisão
+- Integração de texto, imagem, áudio e vídeo em um único fluxo
+- Clareza sobre a diferença entre uso estratégico (Natty) e uso superficial (Fake Natty)
 
-O projeto mostra que a IA não substitui o decisor humano, mas amplia sua capacidade analítica, reduz incertezas e melhora a qualidade das decisões.
+Os fundamentos conceituais, critérios estratégicos e decisões de design estão detalhados na proposta completa do projeto.
 
 ---
 
-## 💭 Reflexão (Opcional)
+## 📄 Proposta Completa do Projeto
 
-Criar algo verdadeiramente “natty” com IA Generativa exigiu ir além da simples geração de conteúdo. O maior aprendizado foi perceber que o valor real da IA surge quando ela é usada para **simular decisões, estruturar raciocínios e apoiar escolhas complexas**, sempre com governança e responsabilidade humana.
+Este repositório inclui um documento complementar com o aprofundamento estratégico do projeto.
 
-Neste projeto, a IA não decide. Ela questiona, compara, antecipa cenários e acelera o processo decisório. O resultado é um uso mais maduro, estratégico e alinhado às demandas reais do mundo dos negócios.
+👉 Consulte o arquivo [PROJECT_PROPOSAL.md](./PROJECT_PROPOSAL.md) para conhecer:
+- O insight central do projeto
+- O Decision Copilot Framework em profundidade
+- A aplicação prática e os critérios Natty vs Fake Natty
+
+---
+
+## 💭 Reflexão
+
+Criar algo verdadeiramente “natty” com IA Generativa exigiu ir além da automação. O projeto demonstrou que o maior valor da IA está em **estruturar decisões melhores**, mantendo responsabilidade e governança humanas.
 
 ---
 
 ## 📌 Conclusão
 
-O **Decision Copilot Framework** demonstra como profissionais e líderes podem vencer na era das IAs Generativas sem cair no hype, utilizando a tecnologia como uma verdadeira plataforma cognitiva para decisões mais rápidas, seguras e bem fundamentadas.
-
-Este projeto reforça que o futuro da IA no ambiente corporativo não está apenas na automação, mas na **qualidade das decisões que ela ajuda a construir**.
+O **Decision Copilot Framework** mostra como líderes podem vencer na era da IA Generativa sem cair no hype, utilizando a tecnologia como uma plataforma cognitiva para decisões mais rápidas, seguras e bem fundamentadas.
