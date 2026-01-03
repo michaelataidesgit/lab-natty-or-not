@@ -82,3 +82,37 @@ Criar algo verdadeiramente “natty” com IA Generativa exigiu ir além da auto
 ## 📌 Conclusão
 
 O **Decision Copilot Framework** mostra como líderes podem vencer na era da IA Generativa sem cair no hype, utilizando a tecnologia como uma plataforma cognitiva para decisões mais rápidas, seguras e bem fundamentadas.
+
+---
+
+## 📁 Estrutura do Repositório
+
+```text
+decision-copilot-framework/
+│
+├── README.md
+│   └── Visão geral do projeto e link claro para PROJECT_PROPOSAL.md
+│
+├── PROJECT_PROPOSAL.md
+│   ├── Link de volta para README.md
+│   ├── Detalhamento completo do Decision Copilot Framework
+│   ├── Aplicação prática do framework
+│   └── Referência externa (Base10)
+│
+├── 01_framework/
+│   └── Definição conceitual, etapas do framework e diagramas
+│
+├── 02_simulacao_texto/
+│   └── Simulação de decisões estratégicas usando IA generativa (texto)
+│
+├── 03_simulacao_imagem/
+│   └── Diagramas e representações visuais do processo decisório
+│
+├── 04_simulacao_audio/
+│   └── Briefings executivos e explicações em áudio
+│
+├── 05_simulacao_video/
+│   └── Comunicação executiva e apresentação sintética em vídeo
+│
+└── 06_reflexao_final/
+    └── Análise crítica Natty vs Fake Natty e aprendizados do projeto
